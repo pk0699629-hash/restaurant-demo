@@ -1,16 +1,49 @@
-# React + Vite
+# 🍃 Olive & Thyme – Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, elegant and responsive restaurant website demo built with React and Vite.
 
-Currently, two official plugins are available:
+## 🌿 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Olive & Thyme is a fictional restaurant website created to demonstrate a premium online presence for restaurants, cafés and food businesses.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Elegant restaurant homepage
+- Responsive navigation menu
+- About section
+- Food menu with images and prices
+- Restaurant gallery
+- Table reservation form
+- Contact information
+- WhatsApp reservation integration
+- Mobile-friendly design
+- Smooth scrolling and hover effects
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- Vite
+- CSS3
+- Lucide React
+- Unsplash Images
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/pk0699629-hash/restaurant-demo.git
+cd restaurant-demo
+npm install
+npm run dev
+```
+
+## 📌 Project Type
+
+Restaurant Website Demo / Frontend Development Portfolio
+
+## 👩‍💻 Developer
+
+Created by Priya Kumari.
+
+---
+
+*Note: Olive & Thyme is a fictional restaurant concept created for demonstration purposes. Contact details and reservation number are placeholders.*
